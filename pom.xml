@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.stokito</groupId>
     <artifactId>gag-demo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>Google Annotations Gallery demo</name>
     <description>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>com.github.stokito</groupId>
             <artifactId>gag-annotations</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>asm</groupId>
