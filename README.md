@@ -1,5 +1,5 @@
 # Google Annotations Gallery
-[![Build Status](https://travis-ci.org/stokito/gag.png?branch=master)](https://travis-ci.org/stokito/gag)
+[![Build Status](https://travis-ci.org/stokito/gag-demo.png?branch=master)](https://travis-ci.org/stokito/gag-demo)
 
 The Google Annotations Gallery is an exciting new Java open source library that provides a rich set of annotations for developers to express themselves. Do you find the standard Java annotations dry and lackluster? Have you ever resorted to leaving messages to fellow developers with the `@Deprecated` annotation? Wouldn't you rather leave a `@LOL` or `@Facepalm` instead? If so, then this is the gallery for you.
 
